@@ -6,7 +6,6 @@
     "author": "Kamala Khan",
     "creator_id": 1,
     "org_id": null,
-    "date": "2016-12-22 13:27:40.781045+00",
     "active": true,
     "resources": true
   },
@@ -17,7 +16,6 @@
     "author": "Jessica Jones",
     "creator_id": 1,
     "org_id": null,
-    "date": "2016-12-22 13:27:40.781045+00",
     "active": false,
     "resources": true
   },
@@ -28,7 +26,6 @@
     "author": "Jennifer Walters",
     "creator_id": 2,
     "org_id": null,
-    "date": "2016-12-22 13:27:40.781045+00",
     "active": true,
     "resources": false
   }
