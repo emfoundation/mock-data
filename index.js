@@ -8,5 +8,6 @@ data.tags_challenges = require('./tags_challenges.json');
 data.tags_organisations = require('./tags_organisations.json');
 data.tags = require('./tags.json');
 data.insights = require('./insights.json');
+data.tags_insights = require('./tags_insights.json');
 
 module.exports = data;
