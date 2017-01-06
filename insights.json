@@ -7,7 +7,7 @@
     "creator_id": 1,
     "org_id": null,
     "active": true,
-    "resources": true
+    "resource": true
   },
   {
     "title": "Insight Number 2",
@@ -17,7 +17,7 @@
     "creator_id": 1,
     "org_id": null,
     "active": false,
-    "resources": true
+    "resource": true
   },
   {
     "title": "Insight Number 3",
@@ -27,6 +27,6 @@
     "creator_id": 2,
     "org_id": null,
     "active": true,
-    "resources": false
+    "resource": false
   }
 ]
