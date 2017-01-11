@@ -2,7 +2,7 @@
   {
     "title": "Insight Number 1",
     "url": "https://emf-packs.s3-eu-west-1.amazonaws.com/Growth%20Within%20-%20June%202015/EllenMacArthurFoundation_Growth%20Within_for%20print.pdf?AWSAccessKeyId=AKIAITAQSOURJ2COPP2A&Signature=exc0fbGigjcG88LlqNibztPX%2F3k%3D&Expires=1498468767",
-    "doctype": ".pdf",
+    "type": "Report",
     "author": "Kamala Khan",
     "creator_id": 1,
     "org_id": null,
@@ -12,7 +12,7 @@
   {
     "title": "Insight Number 2",
     "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8nGH7cyac0GS8IWPiGSwWeliasSRM_X7NWYh_MyxMEicGYYrc",
-    "doctype": ".png",
+    "type": "Presentation",
     "author": "Jessica Jones",
     "creator_id": 1,
     "org_id": null,
@@ -22,7 +22,7 @@
   {
     "title": "Insight Number 3",
     "url": "http://www.fantaproject.org/sites/default/files/resources/anthropometry-2003-ENG.pdf",
-    "doctype": ".pdf",
+    "type": "Report",
     "author": "Jennifer Walters",
     "creator_id": 2,
     "org_id": null,
