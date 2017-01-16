@@ -141,5 +141,47 @@
     "last_login": 1480012514369,
     "active": true,
     "account_activated": true
+  },
+
+
+
+  {
+    "first_name": "Ben",
+    "last_name": "Bruno",
+    "email": "ben@bru.co",
+    "user_type": "secondary",
+    "phone": "07111111123",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": 1,
+    "job_title": "Sales Coordinator",
+    "last_login": 1480012504369,
+    "active": true,
+    "account_activated": true
+  },
+  {
+    "first_name": "Sam",
+    "last_name": "Austin",
+    "email": "sam@aus.co",
+    "user_type": "secondary",
+    "phone": "07111111124",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": 2,
+    "job_title": "International Sales",
+    "last_login": 1480012504366,
+    "active": true,
+    "account_activated": true
+  },
+  {
+    "first_name": "Sammy",
+    "last_name": "Smith",
+    "email": "sam@smi.co",
+    "user_type": "secondary",
+    "phone": "07111111124",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": 1,
+    "job_title": "Communications Assistant",
+    "last_login": 1480012504367,
+    "active": true,
+    "account_activated": true
   }
 ]
