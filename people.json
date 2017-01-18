@@ -142,9 +142,19 @@
     "active": true,
     "account_activated": true
   },
-
-
-
+  {
+    "first_name": "Jack",
+    "last_name": "Daniels",
+    "email": "ja@da.co",
+    "user_type": "primary",
+    "phone": "07111111111",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": 9,
+    "job_title": "CEO",
+    "last_login": 1480012514369,
+    "active": true,
+    "account_activated": true
+  },
   {
     "first_name": "Ben",
     "last_name": "Bruno",
@@ -155,6 +165,19 @@
     "org_id": 1,
     "job_title": "Sales Coordinator",
     "last_login": 1480012504369,
+    "active": true,
+    "account_activated": true
+  },
+  {
+    "first_name": "Phillip",
+    "last_name": "Braun",
+    "email": "ph@br.co",
+    "user_type": "primary",
+    "phone": "07111111111",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": 9,
+    "job_title": "CEO",
+    "last_login": 1480012514369,
     "active": true,
     "account_activated": true
   },
