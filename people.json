@@ -156,6 +156,19 @@
     "account_activated": true
   },
   {
+    "first_name": "Ben",
+    "last_name": "Bruno",
+    "email": "ben@bru.co",
+    "user_type": "secondary",
+    "phone": "07111111123",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": 1,
+    "job_title": "Sales Coordinator",
+    "last_login": 1480012504369,
+    "active": true,
+    "account_activated": true
+  },
+  {
     "first_name": "Phillip",
     "last_name": "Braun",
     "email": "ph@br.co",
@@ -167,5 +180,83 @@
     "last_login": 1480012514369,
     "active": true,
     "account_activated": true
+  },
+  {
+    "first_name": "Sam",
+    "last_name": "Austin",
+    "email": "sam@aus.co",
+    "user_type": "secondary",
+    "phone": "07111111124",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": 2,
+    "job_title": "International Sales",
+    "last_login": 1480012504366,
+    "active": true,
+    "account_activated": true
+  },
+  {
+    "first_name": "Sammy",
+    "last_name": "Smith",
+    "email": "sam@smi.co",
+    "user_type": "secondary",
+    "phone": "07111111125",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": 1,
+    "job_title": "Communications Assistant",
+    "last_login": 1480012504367,
+    "active": true,
+    "account_activated": true
+  },
+  {
+    "first_name": "Mary",
+    "last_name": "Flint",
+    "email": "mar@fli.co",
+    "user_type": "secondary",
+    "phone": "07111111126",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": 2,
+    "job_title": "Human Resources",
+    "last_login": 1480012504360,
+    "active": true,
+    "account_activated": true
+  },
+  {
+    "first_name": "Anita",
+    "last_name": "Rose",
+    "email": "ani@ros.co",
+    "user_type": "secondary",
+    "phone": "07111111127",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": 3,
+    "job_title": "Communications Manager",
+    "last_login": 1480012505367,
+    "active": true,
+    "account_activated": true
+  },
+  {
+    "first_name": "Harriet",
+    "last_name": "Evans",
+    "email": "har@eva.co",
+    "user_type": "secondary",
+    "phone": "07111111128",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": 4,
+    "job_title": "Assistant Manager",
+    "last_login": 1480012504387,
+    "active": false,
+    "account_activated": true
+  },
+  {
+    "first_name": "Matt",
+    "last_name": "Labdance",
+    "email": "mat@lab.co",
+    "user_type": "secondary",
+    "phone": "07111111129",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": 5,
+    "job_title": "Financial Advisor",
+    "last_login": 1480012508367,
+    "active": true,
+    "account_activated": false
   }
 ]
