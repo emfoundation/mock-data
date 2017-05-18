@@ -52,5 +52,11 @@
     "logo_url": null,
     "mission_statement": "Healthy nibbles for the world",
     "active": true
+  },
+  {
+    "name": "Focus Hub",
+    "logo_url": null,
+    "mission_statement": "",
+    "active": true
   }
 ]
