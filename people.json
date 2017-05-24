@@ -273,5 +273,18 @@
     "last_login": 1480012514369,
     "active": true,
     "account_activated": true
+  },
+  {
+    "first_name": "Sam",
+    "last_name": "Roger",
+    "email": "sam@roger.co",
+    "user_type": "primary",
+    "phone": "07111111111",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": 10,
+    "job_title": "Musician",
+    "last_login": 1480012514369,
+    "active": true,
+    "account_activated": false
   }
 ]
