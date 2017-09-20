@@ -1,18 +1,5 @@
 [
   {
-    "first_name": "C",
-    "last_name": "Owner",
-    "user_type": "content-owner",
-    "email": "content@owner.com",
-    "phone": "07111111111",
-    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
-    "org_id": null,
-    "job_title": "Content Owner",
-    "last_login": 1480012514369,
-    "active": true,
-    "account_activated": true
-  },
-  {
     "first_name": "Alex",
     "last_name": "Wijns",
     "user_type": "admin",
@@ -297,5 +284,18 @@
     "last_login": 1480012514369,
     "active": true,
     "account_activated": false
+  },
+  {
+    "first_name": "C",
+    "last_name": "Owner",
+    "user_type": "content-owner",
+    "email": "content@owner.com",
+    "phone": "07111111111",
+    "password": "$2a$04$vpHUCZvW2OtSNdmRAQdDj.OJ5npx6ViFybJqtVbJm7.WrpYtWT1jm",
+    "org_id": null,
+    "job_title": "Content Owner",
+    "last_login": 1480012514369,
+    "active": true,
+    "account_activated": true
   }
 ]
